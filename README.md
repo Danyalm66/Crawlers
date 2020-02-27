@@ -7,7 +7,7 @@
 
 # Data fields
 ```
-	date=scrapy.Field()
+    date=scrapy.Field()
     title=scrapy.Field()
     location=scrapy.Field()
     contractKind=scrapy.Field()
